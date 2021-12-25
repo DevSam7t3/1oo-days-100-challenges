@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="896" viewBox="0 0 1100 896">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-16, .cls-18, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f6f5fc;
+      }
+
+      .cls-3, .cls-4, .cls-8 {
+        fill: #10103e;
+      }
+
+      .cls-3 {
+        font-size: 32px;
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .cls-12, .cls-3, .cls-6 {
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 14px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-5 {
+        fill: #1730fb;
+      }
+
+      .cls-6 {
+        fill: rgba(16,16,62,0.8);
+      }
+
+      .cls-18, .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-12, .cls-6 {
+        font-family: SegoeUI-Bold, Segoe UI;
+      }
+
+      .cls-7 {
+        stroke: #e2dff2;
+      }
+
+      .cls-12, .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-18, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-9 {
+        stroke: #1730fb;
+      }
+
+      .cls-10, .cls-17, .cls-19, .cls-20 {
+        fill: none;
+      }
+
+      .cls-10, .cls-20 {
+        stroke: #10103e;
+      }
+
+      .cls-10, .cls-17 {
+        stroke-width: 2px;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-15 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-16 {
+        font-size: 24px;
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-17 {
+        stroke: #f7368f;
+        stroke-dasharray: 3 3;
+      }
+
+      .cls-20 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.5px;
+      }
+
+      .cls-21 {
+        stroke: none;
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_8);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_7);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_2);
+      }
+    </style>
+    <filter id="Rectangle_2" x="0" y="0" width="1100" height="896" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="22.5" result="blur"/>
+      <feFlood flood-color="#19195d" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7" x="504.5" y="507.5" width="387" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#e2dff2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#24246f"/>
+      <stop offset="1" stop-color="#141455"/>
+    </linearGradient>
+    <filter id="Rectangle_8" x="504.5" y="589.5" width="387" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#21216b" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M52.5-32.16a5.971,5.971,0,0,1,2.973.751,5.4,5.4,0,0,1,2.1,2.113,6.378,6.378,0,0,1,.762,3.169,6.378,6.378,0,0,1-.762,3.169,5.4,5.4,0,0,1-2.1,2.113,5.971,5.971,0,0,1-2.973.751,4.506,4.506,0,0,1-3.681-1.525v1.35H45.574v-16.16h3.4v5.684A4.525,4.525,0,0,1,52.5-32.16Zm-.588,9.278a2.83,2.83,0,0,0,2.145-.882,3.288,3.288,0,0,0,.838-2.363,3.288,3.288,0,0,0-.838-2.363,2.83,2.83,0,0,0-2.145-.882,2.83,2.83,0,0,0-2.145.882,3.288,3.288,0,0,0-.838,2.363,3.288,3.288,0,0,0,.838,2.363A2.83,2.83,0,0,0,51.912-22.883Zm14.265,2.788a7.026,7.026,0,0,1-3.321-.773,5.747,5.747,0,0,1-2.3-2.145,5.911,5.911,0,0,1-.828-3.114,5.911,5.911,0,0,1,.828-3.114,5.747,5.747,0,0,1,2.3-2.145,7.026,7.026,0,0,1,3.321-.773,6.961,6.961,0,0,1,3.31.773,5.765,5.765,0,0,1,2.287,2.145,5.911,5.911,0,0,1,.828,3.114,5.911,5.911,0,0,1-.828,3.114,5.765,5.765,0,0,1-2.287,2.145A6.961,6.961,0,0,1,66.177-20.095Zm0-2.788a2.83,2.83,0,0,0,2.145-.882,3.288,3.288,0,0,0,.838-2.363,3.288,3.288,0,0,0-.838-2.363,2.83,2.83,0,0,0-2.145-.882,2.865,2.865,0,0,0-2.156.882,3.263,3.263,0,0,0-.849,2.363,3.263,3.263,0,0,0,.849,2.363A2.865,2.865,0,0,0,66.177-22.883Zm20.581-9.1v11.717H83.513v-1.35a4.48,4.48,0,0,1-3.659,1.525,6.084,6.084,0,0,1-2.995-.74,5.3,5.3,0,0,1-2.1-2.113A6.44,6.44,0,0,1,74-26.128a6.44,6.44,0,0,1,.762-3.18,5.3,5.3,0,0,1,2.1-2.113,6.084,6.084,0,0,1,2.995-.74,4.457,4.457,0,0,1,3.506,1.416v-1.241Zm-6.316,9.1a2.839,2.839,0,0,0,2.134-.882,3.263,3.263,0,0,0,.849-2.363,3.263,3.263,0,0,0-.849-2.363,2.839,2.839,0,0,0-2.134-.882,2.865,2.865,0,0,0-2.156.882,3.263,3.263,0,0,0-.849,2.363,3.263,3.263,0,0,0,.849,2.363A2.865,2.865,0,0,0,80.442-22.883Zm12.7-7.557a3.778,3.778,0,0,1,1.644-1.285,6.1,6.1,0,0,1,2.385-.436v3.136q-.566-.044-.762-.044a3.114,3.114,0,0,0-2.287.817,3.3,3.3,0,0,0-.828,2.45v5.532h-3.4V-31.986h3.245Zm18.076-5.989v16.16h-3.245v-1.35a4.48,4.48,0,0,1-3.659,1.525,6.084,6.084,0,0,1-2.995-.74,5.3,5.3,0,0,1-2.1-2.113,6.44,6.44,0,0,1-.762-3.18,6.44,6.44,0,0,1,.762-3.18,5.3,5.3,0,0,1,2.1-2.113,6.084,6.084,0,0,1,2.995-.74,4.457,4.457,0,0,1,3.506,1.416v-5.684ZM104.9-22.883a2.839,2.839,0,0,0,2.134-.882,3.263,3.263,0,0,0,.849-2.363,3.263,3.263,0,0,0-.849-2.363,2.839,2.839,0,0,0-2.134-.882,2.865,2.865,0,0,0-2.156.882,3.263,3.263,0,0,0-.849,2.363,3.263,3.263,0,0,0,.849,2.363A2.865,2.865,0,0,0,104.9-22.883Zm24.458-9.278a4.723,4.723,0,0,1,3.5,1.3,5.28,5.28,0,0,1,1.3,3.888v6.708h-3.4v-6.185a3.174,3.174,0,0,0-.577-2.08,2.029,2.029,0,0,0-1.644-.686,2.423,2.423,0,0,0-1.895.773,3.332,3.332,0,0,0-.7,2.3v5.88h-3.4v-6.185q0-2.766-2.221-2.766a2.4,2.4,0,0,0-1.873.773,3.332,3.332,0,0,0-.7,2.3v5.88h-3.4V-31.986H117.6v1.35a4.288,4.288,0,0,1,1.6-1.132,5.388,5.388,0,0,1,2.08-.392,5.037,5.037,0,0,1,2.243.49,3.973,3.973,0,0,1,1.612,1.427,4.806,4.806,0,0,1,1.819-1.416A5.737,5.737,0,0,1,129.357-32.16ZM143.1-22.817a4.5,4.5,0,0,0,1.622-.272,3.929,3.929,0,0,0,1.318-.86l1.808,1.96a6.075,6.075,0,0,1-4.835,1.895,7.648,7.648,0,0,1-3.506-.773,5.668,5.668,0,0,1-2.352-2.145,5.911,5.911,0,0,1-.828-3.114,5.987,5.987,0,0,1,.817-3.1,5.722,5.722,0,0,1,2.243-2.156,6.632,6.632,0,0,1,3.212-.773,6.551,6.551,0,0,1,3.049.708,5.447,5.447,0,0,1,2.189,2.047,5.968,5.968,0,0,1,.817,3.169l-8.668,1.677a2.6,2.6,0,0,0,1.165,1.307A4.009,4.009,0,0,0,143.1-22.817Zm-.5-6.773a2.789,2.789,0,0,0-2.091.828,3.288,3.288,0,0,0-.849,2.287l5.706-1.111a2.56,2.56,0,0,0-.98-1.459A2.931,2.931,0,0,0,142.6-29.59Z" transform="translate(-45.574 36.429)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M-569,364.415H322.78V-235H-569Z" transform="translate(569 235)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_6" data-name="Path 6" class="cls-1" d="M21.516-17.607l-1.881,2.489a.5.5,0,0,1-.7.1.5.5,0,0,1-.1-.1l-1.882-2.489H1.006A1.006,1.006,0,0,1,0-18.613V-41.994A1.006,1.006,0,0,1,1.006-43H24.387a1.006,1.006,0,0,1,1.006,1.006v23.381a1.006,1.006,0,0,1-1.006,1.006Zm-12.968-5.6a5.962,5.962,0,0,0,.677.337,5.775,5.775,0,0,0,2.27.449,5.926,5.926,0,0,0,2.28-.438,5.577,5.577,0,0,0,1.853-1.234A5.833,5.833,0,0,0,16.877-26a6.37,6.37,0,0,0,.459-2.456,6.244,6.244,0,0,0-.459-2.419,6.035,6.035,0,0,0-1.25-1.917,5.663,5.663,0,0,0-1.853-1.266,5.743,5.743,0,0,0-2.28-.454,4.294,4.294,0,0,0-.812.08,4.754,4.754,0,0,0-.806.23,3.372,3.372,0,0,0-.726.384,2.648,2.648,0,0,0-.571.534v-5.34H8.548v-.1H5.531v16.342H8.548ZM14.4-28.456a3.236,3.236,0,0,1-.23,1.228,3.109,3.109,0,0,1-.625.983,2.935,2.935,0,0,1-.924.657,2.691,2.691,0,0,1-1.127.24,2.691,2.691,0,0,1-1.127-.24,2.935,2.935,0,0,1-.924-.657,3.035,3.035,0,0,1-.619-.983A3.3,3.3,0,0,1,8.6-28.456a3.093,3.093,0,0,1,.224-1.159,3.246,3.246,0,0,1,.619-.993,3.107,3.107,0,0,1,.924-.694,2.506,2.506,0,0,1,1.127-.262,2.743,2.743,0,0,1,1.127.235,2.864,2.864,0,0,1,.924.651,3.1,3.1,0,0,1,.625.988A3.277,3.277,0,0,1,14.4-28.456Zm4.2,6.826a1.508,1.508,0,0,0,1.508-1.508A1.508,1.508,0,0,0,18.6-24.647,1.508,1.508,0,0,0,17.1-23.138,1.508,1.508,0,0,0,18.6-21.63Z" transform="translate(0 43)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_43" data-name="Group 43" transform="translate(-534.5 -306.5)">
+    <g class="cls-24" transform="matrix(1, 0, 0, 1, 534.5, 306.5)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" class="cls-2" width="965" height="761" rx="20" transform="translate(67.5 57.5)"/>
+    </g>
+    <text id="Create_your_account" data-name="Create your
+account" class="cls-3" transform="translate(1054 516)"><tspan x="0" y="0">Create your</tspan><tspan x="0" y="37">account</tspan></text>
+    <text id="Having_trouble_Get_help" data-name="Having trouble? Get help" class="cls-4" transform="translate(1371 1082)"><tspan x="0" y="0">Having trouble? </tspan><tspan class="cls-5" y="0">Get help</tspan></text>
+    <g id="Group_37" data-name="Group 37">
+      <text id="Name" class="cls-6" transform="translate(1054 609)"><tspan x="0" y="0">Name</tspan></text>
+      <g id="Group_36" data-name="Group 36">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" class="cls-7" transform="translate(1054 618)">
+          <rect class="cls-21" width="357" height="63" rx="5"/>
+          <rect class="cls-19" x="0.5" y="0.5" width="356" height="62" rx="4.5"/>
+        </g>
+        <text id="Denver_Duke" data-name="Denver Duke" class="cls-8" transform="translate(1079 656)"><tspan x="0" y="0">Denver Duke</tspan></text>
+      </g>
+    </g>
+    <g id="Group_39" data-name="Group 39" transform="translate(0 103)">
+      <text id="Email" class="cls-6" transform="translate(1054 609)"><tspan x="0" y="0">Email</tspan></text>
+      <g id="Group_36-2" data-name="Group 36">
+        <g id="Rectangle_7-3" data-name="Rectangle 7" class="cls-7" transform="translate(1054 618)">
+          <rect class="cls-21" width="357" height="63" rx="5"/>
+          <rect class="cls-19" x="0.5" y="0.5" width="356" height="62" rx="4.5"/>
+        </g>
+        <text id="duke_email.com" data-name="duke@email.com" class="cls-8" transform="translate(1079 656)"><tspan x="0" y="0">duke@email.com</tspan></text>
+      </g>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(0 206)">
+      <text id="Password" class="cls-6" transform="translate(1054 609)"><tspan x="0" y="0">Password</tspan></text>
+      <g id="Group_36-3" data-name="Group 36">
+        <g class="cls-23" transform="matrix(1, 0, 0, 1, 534.5, 100.5)">
+          <g id="Rectangle_7-4" data-name="Rectangle 7" class="cls-9" transform="translate(519.5 517.5)">
+            <rect class="cls-21" width="357" height="63" rx="5"/>
+            <rect class="cls-19" x="0.5" y="0.5" width="356" height="62" rx="4.5"/>
+          </g>
+        </g>
+        <text id="_" data-name="*****" class="cls-8" transform="translate(1079 659)"><tspan x="0" y="0">*****</tspan></text>
+      </g>
+      <path id="Path_15" data-name="Path 15" class="cls-10" d="M1126.606,634.438v25.851" transform="translate(-2 2.063)"/>
+    </g>
+    <g id="Group_42" data-name="Group 42">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, 534.5, 306.5)">
+        <rect id="Rectangle_8-2" data-name="Rectangle 8" class="cls-11" width="357" height="70" rx="5" transform="translate(519.5 599.5)"/>
+      </g>
+      <text id="Sign_Up" data-name="Sign Up" class="cls-12" transform="translate(1199 948)"><tspan x="0" y="0">Sign Up</tspan></text>
+    </g>
+    <path id="Rectangle_9" data-name="Rectangle 9" class="cls-11" d="M20,0H375a0,0,0,0,1,0,0V761a0,0,0,0,1,0,0H20A20,20,0,0,1,0,741V20A20,20,0,0,1,20,0Z" transform="translate(602 364)"/>
+    <g id="Group_40" data-name="Group 40" transform="translate(647 452)">
+      <g id="Group_2" data-name="Group 2" class="cls-13" transform="translate(30.421 -38.614)">
+        <g id="Group_1" data-name="Group 1" class="cls-14" transform="translate(-410.228 -132.546)">
+          <path id="Path_1" data-name="Path 1" class="cls-1" d="M40.574-18.42H150.328V-41.429H40.574Z" transform="translate(366.317 170.638)"/>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" class="cls-15" transform="translate(0 -43)">
+        <g id="Group_3" data-name="Group 3" class="cls-14" transform="translate(-379.807 -128.16)">
+          <path id="Path_4" data-name="Path 4" class="cls-1" d="M-5-13.243H27.068V-48H-5Z" transform="translate(381.47 172.823)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Implement_user_onboarding_experiences_with_just_a_few_clicks" data-name="Implement user onboarding experiences with just a few clicks" class="cls-16" transform="translate(647 553)"><tspan x="0" y="26">Implement user </tspan><tspan x="0" y="61">onboarding experiences </tspan><tspan x="0" y="96">with just a few clicks</tspan></text>
+    <line id="Line_2" data-name="Line 2" class="cls-17" x2="137" transform="translate(647.5 623.5)"/>
+    <text id="Guide_your_customers_on_a_fantastic_journey_within_your_web_app." data-name="Guide your customers on a fantastic journey within your web app." class="cls-18" transform="translate(647 698)"><tspan x="0" y="17">Guide your customers on a fantastic </tspan><tspan x="0" y="40">journey within your web app.</tspan></text>
+    <g id="Group_41" data-name="Group 41" transform="translate(1049 434.01)">
+      <path id="Path_16" data-name="Path 16" class="cls-19" d="M0,0H42.99V42.99H0Z"/>
+      <path id="Path_17" data-name="Path 17" class="cls-20" d="M12.165,19.33,5,12.165,12.165,5M5,12.165H24.7a7.165,7.165,0,0,1,0,14.33H22.912" transform="translate(3.956 3.956)"/>
+    </g>
+  </g>
+</svg>
