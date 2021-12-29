@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column-reverse;
+  }
+  .left__add-cards-container {
+    width: 55%;
+  }
+  .left__card {
+    margin-bottom: 3rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .left__add-cards-container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 320px) {
+  .right form {
+    width: 18.375rem;
+  }
+  .right .heading {
+    font-size: 1.5rem;
+  }
+  .left__add-cards-container {
+    width: 270px;
+  }
+  .left__card {
+    width: 17.375rem;
+    height: 9.875rem;
+
+    & > .card {
+      &__logo {
+        margin-bottom: 0.5rem;
+      }
+      &__number {
+        letter-spacing: 1px;
+      }
+    }
+  }
+  h1.sub-detail {
+    width: 78px;
+    font-size: 12px;
+  }
+}

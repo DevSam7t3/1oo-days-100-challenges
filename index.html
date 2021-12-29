@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="styles/styles.css" />
+
+    <!-- font-awesome icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+
+    <title>Day 2 | Credit card checkout</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="left">
+        <h1 class="heading">Checkout</h1>
+        <h2 class="left__price">$300,00</h2>
+        <div class="left__add-cards-container">
+          <h2 class="left__saved-card">Saved Cards</h2>
+          <h2 class="left__add-card"><i class="fas fa-plus"></i> Add New</h2>
+        </div>
+        <div class="left__card">
+          <span class="circle"></span>
+          <div class="card__logo">
+            <div class="logo__left"></div>
+            <div class="logo__right"></div>
+          </div>
+          <h1 class="card__number">5142 - 8164 - 6526 - 2563</h1>
+          <div class="card__details">
+            <div class="card__holder">
+              <h2 class="detail">name</h2>
+              <h1 class="sub-detail">zayn malik</h1>
+            </div>
+            <div class="card__expire">
+              <h2 class="detail">valid till</h2>
+              <h1 class="sub-detail">05/34</h1>
+            </div>
+          </div>
+        </div>
+        <button class="btn" type="submit">proceed</button>
+      </div>
+      <div class="right">
+        <h1 class="heading">Add new card</h1>
+        <form>
+          <section class="copy">
+            <h2>Enter detail's</h2>
+          </section>
+          <div class="input-container name">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" />
+          </div>
+          <div class="input-container card-number">
+            <label maxlenght="16" for="card-number">Card number</label>
+            <input id="card-number" name="card-number" type="number" />
+          </div>
+          <div class="input-container expiry-date">
+            <label for="expiry-date">Expiry date</label>
+            <input id="expiry-date" name="expiry-date" type="number" />
+          </div>
+          <div class="input-container cvv">
+            <label for="cvv">Cvv</label>
+            <input max="3" id="cvv" name="cvv" type="number" />
+          </div>
+        </form>
+        <button class="btn" type="submit">proceed</button>
+      </div>
+    </div>
+  </body>
+</html>

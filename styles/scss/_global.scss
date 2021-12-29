@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  background-repeat: no-repeat;
+  font-family: "Montserrat", sans-serif;
+  background: url("/images/marwin-vigoo-Bq7nHY4trGA-unsplash.jpg");
+}
+
+.btn {
+  width: 12.25rem;
+  height: 3.125rem;
+  background: #ff9900;
+  color: #fff;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.heading {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 0.75rem;
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
